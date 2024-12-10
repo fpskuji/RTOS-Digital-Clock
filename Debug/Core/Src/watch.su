@@ -1,0 +1,14 @@
+../Core/Src/watch.c:64:6:blinkBacklight	16	static
+../Core/Src/watch.c:83:6:displayTimeTask	88	static
+../Core/Src/watch.c:189:6:changeFormatTask	16	static
+../Core/Src/watch.c:203:6:stopwatchTask	24	static,ignoring_inline_asm
+../Core/Src/watch.c:266:6:alarmTask	48	static,ignoring_inline_asm
+../Core/Src/watch.c:347:6:hourlyAlarmTask	88	static
+../Core/Src/watch.c:384:6:snoozeTask	88	static
+../Core/Src/watch.c:449:6:setAlarm	80	static
+../Core/Src/watch.c:476:6:adjustTime	48	static,ignoring_inline_asm
+../Core/Src/watch.c:586:6:enterFunctionMode	8	static
+../Core/Src/watch.c:598:6:exitFunctionMode	8	static
+../Core/Src/watch.c:610:6:stopwatchInit	8	static
+../Core/Src/watch.c:629:6:alarmInit	8	static
+../Core/Src/watch.c:649:9:getDaysInMonth	24	static

@@ -1,0 +1,13 @@
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:202:15:pxPortInitialiseStack	1
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:234:13:prvTaskExitError	2
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:260:6:SVC_Handler	1
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:279:13:prvPortStartFirstTask	1
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:306:12:xPortStartScheduler	1
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:468:6:vPortEndScheduler	1
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:476:6:vPortEnterCritical	1
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:493:6:vPortExitCritical	2
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:505:6:PendSV_Handler	1
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:562:6:SysTick_Handler	2
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:591:36:vPortSuppressTicksAndSleep	10
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:814:32:vPortSetupTimerInterrupt	1
+../FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.c:836:13:vPortEnableVFP	1
